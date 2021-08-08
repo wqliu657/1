@@ -1,4 +1,4 @@
-# pytorch-AdaIN
+# pytorch-AdaIN-wqliu
 
 This is an unofficial pytorch implementation of a paper, Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [Huang+, ICCV2017].
 I'm really grateful to the [original implementation](https://github.com/xunhuang1995/AdaIN-style) in Torch by the authors, which is very useful.
